@@ -20,7 +20,7 @@
 
 <img
   src="./assets/matrix-blue-rain-extra-slim.gif"
-  width="650"
+  width="100%"
   alt="Blue Matrix Rain"
 />
 
